@@ -1,0 +1,10 @@
+Flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.1
+youtube-transcript-api==0.6.1
+groq==0.3.0
+openai-whisper==20231117
+yt-dlp==2024.04.09
+numpy==1.26.4
+opencv-python==4.9.0.80
+Pillow==10.3.0
