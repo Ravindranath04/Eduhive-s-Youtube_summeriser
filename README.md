@@ -2,7 +2,7 @@
 
 A powerful tool that transforms any YouTube video into concise summaries, visual flowcharts, and extracts diagrams directly from the video content. Perfect for quick learning, note-taking, and content analysis.
 
-![YouTube Summarizer Preview](https://via.placeholder.com/800x400)
+![YouTube Summarizer Preview](https://github.com/Ravindranath04/Eduhive-s-Youtube_summeriser/blob/main/image.png?raw=true)
 
 ## Features
 
@@ -10,11 +10,7 @@ A powerful tool that transforms any YouTube video into concise summaries, visual
 - **Visual Flowchart**: Convert video content into an intuitive flowchart for better understanding
 - **Diagram Extraction**: Automatically identify and extract diagrams, charts, and visual content directly from the video
 - **AI-Powered Analysis**: Intelligent processing using Groq API and computer vision
-
-## Demo
-
-![Demo GIF](https://via.placeholder.com/600x400)
-
+- 
 ## Installation
 
 ### Prerequisites
