@@ -166,10 +166,6 @@ The application uses several key technologies:
 - **Whisper**: Audio transcription when subtitles aren't available
 - **yt-dlp**: YouTube video downloading
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The AI models provided by Groq
